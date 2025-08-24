@@ -37,3 +37,5 @@ The output will be **1248×832 pixels**.
 
 ✦ Category: `Lightx02`  
 ✦ Display name in ComfyUI: **Crop Image by Lightx02**
+
+![Node preview](0027875.png)
